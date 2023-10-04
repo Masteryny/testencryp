@@ -38,3 +38,11 @@ Route::put('destino/update/{$lugar}', [\App\Http\Controllers\Places::class, 'upd
 //Vehiculo
 Route::get('vehiculo', \App\Livewire\Vehiculo::class)->name('vehiculo');
 
+//Autos
+Route::get('auto', \App\Livewire\Autos::class)->name('auto');
+
+//Viajes
+Route::get('Journeys', \App\Livewire\Journeys::class)->name('Journeys');
+
+//Pagos
+Route::get('Bills', \App\Livewire\Bills::class)->name('Bills');

@@ -34,6 +34,12 @@ class Vehiculo extends Component
             'modelo' => $this->modelo
         ]);
 
+        
+        $this->tipo='';
+        $this->marca='';
+        $this->modelo='';
+        
+
         $this->openModal = false;
 
     }
