@@ -6,7 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-### Como Instalar
+
+## Como Instalar
 1. Clonar el proyecto
 2. en la terminal se ha de ejecutar `composer install` and `npm install`
 3. Modificar el `.env`
